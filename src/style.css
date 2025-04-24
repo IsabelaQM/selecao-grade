@@ -1,0 +1,21 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 12px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 2px 4px;
+  text-align: center;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+#conflitos {
+  margin: 10px 0;
+  font-family: monospace;
+  font-size: 14px;
+}

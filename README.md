@@ -1,6 +1,6 @@
 # Gerador de Grades Horárias
 
-Este projeto avalia a matriz que foi gerada com as múltiplas possibilidades de grades horárias para o curso de Sistemas para Internet, atendendo a critérios específicos de períodos, dias da semana, horários e disciplinas. O resultado da grade horária é exibido em uma tabela formatada no navegador. Nesta etapa o objetivo é ordenar os indivíduos (linhas da matriz) em ordem crescente da quantidade de conflitos que existem naquela grade horária, através da comparação do código do professor
+Este projeto avalia a matriz que foi gerada com as múltiplas possibilidades de grades horárias para o curso de Sistemas para Internet, atendendo a critérios específicos de períodos, dias da semana, horários e disciplinas. O resultado da grade horária é exibido em uma tabela formatada no navegador. Nesta etapa o objetivo é selecionar 2 indivíduos da população: um pertencente à primeira metade dos indivíduos e outro de maneira aleatória
 
 
 ## Requisitos
